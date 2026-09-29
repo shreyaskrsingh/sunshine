@@ -1,0 +1,9 @@
+## pyspark options
+
+df.select
+df.WithColoumn
+df.WithColumnrenamed
+df.Filter
+df.Drop
+df.DropDuplicates
+df.GroupBy
